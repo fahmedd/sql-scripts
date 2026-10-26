@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS dbc.EmployeeContract, dbc.ContractType, dbc.Company, dbc.Department, dbc.Employee;
